@@ -2,4 +2,4 @@
 
 Hello
 
-i am learning to make a repo
+i am learning to creat a repo
